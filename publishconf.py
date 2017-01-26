@@ -16,7 +16,8 @@ RELATIVE_URLS = False
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
-DELETE_OUTPUT_DIRECTORY = True
+# Don't delete output directory! We need to keep the .git file
+DELETE_OUTPUT_DIRECTORY = False
 
 # Following items are often useful when publishing
 
