@@ -125,6 +125,7 @@ But here's the thing - monkey patching can break things really easily - **and Ru
 
 ####CONSTANTS - why even bother?
 'Constants' are sort-of a thing in Ruby. If you define a variable with CAPITAL LETTERS, the Ruby interpreter will give you a warning. But it won't do anything about the warning - it'll still change the 'constant' value, and just complain about it. Here's an example:
+
     :::fancy
     >> CONST = "Don't change me please"
     => "Don't change me please"
