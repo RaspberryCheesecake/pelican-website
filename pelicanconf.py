@@ -23,13 +23,12 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+         ('Jinja2', 'http://jinja.pocoo.org/'),)
 
-# Social widget
+# Social widget SOCIAL
 SOCIAL = (('GitHub', 'https://github.com/raspberrycheesecake'),
           ('Contact Me', 'hannah.hazi@cantab.net'),
-          ('LinkedIn', 'https://www.linkedin.com/in/hannah-wray-9b985a84')
+          ('LinkedIn', 'https://uk.linkedin.com/in/hannah-hazi-9b985a84')
          )
 
 DEFAULT_PAGINATION = 10
@@ -39,8 +38,20 @@ RELATIVE_URLS = True
 
 THEME = "/home/sandmanuser/pelican-themes/blue-penguin"
 
-# Adding these to sort out pages  (I hope)
+# Adding these to sort out pages  - hm, still not working.
 PAGE_PATHS = ['pages']
 DISPLAY_PAGES_ON_MENU = True
 STATIC_PATHS = ['images']
-PAGES = ['about']
+
+MENUITEMS = SOCIAL
+DISPLAY_MENU = True
+
+ARCHIVES_URL = 'archives'
+ARCHIVES_SAVE_AS = 'archives/index.html'
+
+ABOUT_URL = 'about'
+ABOUT_SAVE_AS = 'about/index.html'
+# Tried adding ('About', ABOUT_URL, ABOUT_SAVE_AS) to MENU_INTERNAL_PAGES, didn't work. Damn...
+
+MENU_INTERNAL_PAGES = (('Archives', ARCHIVES_URL, ARCHIVES_SAVE_AS),)
+

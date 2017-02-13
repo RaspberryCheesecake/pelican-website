@@ -1,7 +1,7 @@
 Title: First Steps Exploring Ruby
 Date: 02-02-2017
 slug: first-ruby
-
+tags: Ruby, Understanding Computation, CPSG
 
 
 Last night I went to the first of the [Cambridge Programmers' Study Group](https://www.meetup.com/Cambridge-Programmers-Study-Group/) new sessions - we're starting to work through the book ['Understanding Computation: From Simple Machines to Impossible Programs'](http://computationbook.com/) by Tom Stuart. The book uses practical exercises in Ruby to explain a bunch of theoretical computer science stuff, working up to cellular automata, Turing machines and the lambda calculus (exciting!). As Stuart's blurb explains, the book is aimed at
