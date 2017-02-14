@@ -27,7 +27,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 # Social widget SOCIAL
 SOCIAL = (('GitHub', 'https://github.com/raspberrycheesecake'),
-          ('Contact Me', 'hannah.hazi@cantab.net'),
+          ('Contact Me', 'mailto:hannah.hazi@cantab.net'),
           ('LinkedIn', 'https://uk.linkedin.com/in/hannah-hazi-9b985a84')
          )
 
