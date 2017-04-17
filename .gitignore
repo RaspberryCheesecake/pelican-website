@@ -1,2 +1,6 @@
 /output/*
+/themes/*
 *.py[cod]
+*~*
+*.pid
+

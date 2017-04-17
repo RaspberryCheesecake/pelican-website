@@ -2,6 +2,7 @@ Title: Monkey Patching Reprise
 Date: 13-02-2017
 slug: monkey-patching
 Tags: Ruby, Python
+Summary: What's the real distinction between Python and Ruby monkey-patching? Am I making a fuss over nothing?
 
 It turns out that things aren't as simple as they seemed in my last post. A couple of people have pointed out to me that Python can indeed do monkey patching - so what's the difference between this and Ruby? Am I just making a fuss over nothing? First of all, to some proper definitions.
 
