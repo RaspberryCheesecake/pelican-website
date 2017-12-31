@@ -11,7 +11,7 @@ I spent the last few days at [PyCon UK](http://2017.pyconuk.org/), and thought I
 On the first day of the conference I spoke about [Python As a Second Language](https://2017.pyconuk.org/sessions/talks/python-as-a-second-language). The organisers put me in the Biggest Room so I had to fight off some pre-talk nerves,
 but I was glad to have the chance to do it and got some lovely feedback afterwards. Thanks again to [Emma Gordon](https://github.com/emmagordon/) for encouraging me to give it a go and push my comfort zone! Doing a talk on Thursday also meant I was free to enjoy the rest of the conference without worrying, which I definitely recommend.
 
-For those who are interested, a video of my talk will soon be up on YouTube - stay tuned!
+For those who are interested, [a video of my talk is now up on YouTube!](https://www.youtube.com/watch?v=gwou7CTymS0)
 
 # I went to talks and workshops!
 

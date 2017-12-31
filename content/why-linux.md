@@ -1,5 +1,5 @@
 Title: Why Do We Do This To Ourselves?
-Date: 2017-09-19
+Date: 2017-09-10
 slug: why-linux
 Category: open source
 tags: books, open source, Ubuntu, when things go wrong
