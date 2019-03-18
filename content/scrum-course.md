@@ -1,5 +1,5 @@
 Title: Agile Workshop
-Date: 2018-04-12
+Date: 2019-04-12
 slug: learning-scrum
 Category: agile
 tags: scrum, coaching, agile, workshop
