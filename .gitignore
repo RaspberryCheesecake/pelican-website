@@ -1,6 +1,8 @@
-/output/*
-/themes/*
+output/*
+themes/*
+pelican/*
 *.py[cod]
 *~*
 *.pid
+.idea/*
 
