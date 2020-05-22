@@ -1,6 +1,7 @@
 output/*
 themes/*
 pelican/*
+venv/*
 *.py[cod]
 *~*
 *.pid
