@@ -2,6 +2,14 @@ Title: Talks
 slug: talks
 Summary: Talks and Workshops
 
+2020
+
+* [Fruitmoji](https://youtu.be/3xO7AmAK_Gg)
+Tracking my pregnancy with Python and emoji
+
+* Unexploded Bombs (CamPUG)
+
+
 2019
 
 * [Don't Cross The Streams](https://www.youtube.com/watch?v=T-zaepH-lHc)
