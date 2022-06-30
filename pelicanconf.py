@@ -41,7 +41,9 @@ THEME = "/home/hannah/Documents/Python/Website/themes/blue-penguin"
 # Adding these to sort out pages  - hm, still not working.
 PAGE_PATHS = ['pages']
 DISPLAY_PAGES_ON_MENU = True
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extra/favicon.ico']
+
+EXTRA_PATH_METADATA = {'extra/favicon.ico': {'path': 'extra/favicon.ico'}}
 
 MENUITEMS = SOCIAL
 DISPLAY_MENU = True

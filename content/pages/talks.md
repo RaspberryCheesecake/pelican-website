@@ -2,10 +2,17 @@ Title: Talks
 slug: talks
 Summary: Talks and Workshops
 
+2022
+
+* [How I Tracked my Pregnancy With Python and Emoji](https://community.codenewbie.org/codeland2022/on-demand-talk-how-i-tracked-my-pregnancy-with-python-emojis-4cef)
+
+* One of These Things Is Not Like The Others (unconference session at Write the Docs)
+
+
 2020
 
 * [Fruitmoji](https://youtu.be/3xO7AmAK_Gg)
-Tracking my pregnancy with Python and emoji
+PyLadies London
 
 * Unexploded Bombs (CamPUG)
 
