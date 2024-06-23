@@ -4,6 +4,9 @@ Summary: Talks and Workshops
 
 2022
 
+* [Unexploded Bombs](https://www.youtube.com/watch?v=9N6Ykdv9T2E&t=1s) 
+My keynote for PyCon UK
+
 * [How I Tracked my Pregnancy With Python and Emoji](https://community.codenewbie.org/codeland2022/on-demand-talk-how-i-tracked-my-pregnancy-with-python-emojis-4cef)
 
 * One of These Things Is Not Like The Others (unconference session at Write the Docs)
@@ -14,8 +17,6 @@ Summary: Talks and Workshops
 * [Fruitmoji](https://youtu.be/3xO7AmAK_Gg)
 PyLadies London
 
-* Unexploded Bombs (CamPUG)
-
 
 2019
 
@@ -23,6 +24,7 @@ PyLadies London
 An introduction to virtual environments in Python
 
 * Telling Stories with Python and Ren'Py
+An interactive workshop where participants built their own visual novels
 
 
 2018
