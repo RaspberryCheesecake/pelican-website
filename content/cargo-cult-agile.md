@@ -1,5 +1,5 @@
 Title: Cargo Cult Agile
-Date: 2025-08-12
+Date: 2025-06-12
 slug: cargo-cult-agile
 Category: agile
 tags: ethics, books, agile
