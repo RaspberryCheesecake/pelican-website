@@ -50,7 +50,7 @@ Everyone has better days and worse days when dealing with a chronic illness. If 
 
 Pacing is a technique taught by physiotherapists. It aims to counter the vicious cycle by teaching people to budget their limited energy and plan out their days. 
 
-[This guide to pacing](https://www.rcot.co.uk/media/1001/cdownload?attachment) from the Royal College of Occupational Therapists is very useful. It describes in good detail some of the methods you can use to reduce physical and mental energy use and pace yourself throughout the day. It breaks down ordinary tasks into smaller pieces and has helpful examples of how to build rest periods into your day.
+[This guide to pacing](https://www.rcot.co.uk/learn-about-occupational-therapy/ot-advice/lift-up/energy) from the Royal College of Occupational Therapists is very useful. It describes in good detail some of the methods you can use to reduce physical and mental energy use and pace yourself throughout the day. It breaks down ordinary tasks into smaller pieces and has helpful examples of how to build rest periods into your day.
 
 It is not a cure. A famous and vivid story about how pacing feels from the inside is [the spoon theory](https://lymphoma-action.org.uk/sites/default/files/media/documents/2020-05/Spoon%20theory%20by%20Christine%20Miserandino.pdf) by Christine Miserandino.
 
