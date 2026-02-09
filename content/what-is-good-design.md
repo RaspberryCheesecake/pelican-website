@@ -39,7 +39,7 @@ You'll have heard of [minimalism](https://minimalissimo.com/interiors). These da
 ![Example of minimalist architecture]({filename}/images/Barcelona_mies_v_d_rohe_pavillon_weltausstellung1999_03.jpg)
 *By Hans Peter Schaefer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=52728*
 
-Here is an influential example - Ludwig Mies van der Rohe's German Pavilion for the 1929 International Exposition in Barcelona. With stark planes of gleaming glass and marble, it exemplifies his design philosophy of 'less is more' and stands in stark contrast to the lush ornamentation, colour and decoration in the structures of other architects. It looks relatively unremarkable to modern eyes but at the time it was a shocking departure from accepted norms. 
+Here is an influential example - Ludwig Mies van der Rohe's German Pavilion for the 1929 International Exposition in Barcelona. With stark planes of gleaming glass and marble, it exemplifies his design philosophy of 'less is more' and stands in sharp contrast to the lush ornamentation, colour and decoration in the structures of other architects. It looks relatively unremarkable to modern eyes but at the time it was a shocking departure from accepted norms. 
 
 Mies pioneered the principle of [the 'free facade'](https://misfitsarchitecture.com/2016/04/15/the-free-facade/), now used widely in modern office buildings. Basically, the interior walls no longer needed to do the work of supporting the roof, the support function being transferred to unobtrusive supporting stilts. The walls appear to float or to be made of glass, and they disappeared to give huge open-plan interior spaces. It disconcerted visitors. People were unable to 'read' the building using their existing knowledge of architecture, because it deliberately hid its functionality. It felt as if the roof might fall down and crush them.
 
@@ -69,7 +69,7 @@ Later adjustments are very difficult. The outward strength and modernity of thes
 
  People get angry when they realise that despite their looks, [modern buildings can be more expensive to maintain](https://www.bbc.co.uk/news/articles/cqqn2wgzv40o) than traditionally-constructed ones. The National Glass Centre in Sunderland is a tragic example. From the BBC:
 
-> "A spokesman for the University of Sunderland said it had commissioned a "full, up-to-date, independent building survey" in 2022, where external specialists concluded that a multimillion-pound investment would be required to address the longstanding problems with the building."
+> "A spokesman for the University of Sunderland said it had commissioned a "full, up-to-date, [independent building survey](https://www.sunderland.ac.uk/asset-library/National-Glass-Centre-Roof-Level-Feasibility-Report.pdf)" in 2022, where external specialists concluded that a multimillion-pound investment would be required to address the longstanding problems with the building."
 
 It is particularly painful that the seamless-looking design of the National Glass Centre, with its modern planes of steel and sheets of glass, is exactly what makes it so difficult to care for. It shone when it was new, but now it looks [unlikely to outlive its architect](https://www.bbc.co.uk/news/articles/c4gry9kkr89o). It will apparently be cheaper to tear it down and rebuild entirely than to fix it.
 
@@ -96,7 +96,7 @@ This led later down the line to things like the [Software Craftsmanship](https:/
 
 Why are some programmers interested in  architecture? Perhaps we're working on the same problems as architects: making complex systems that people have to live with (and inside of) and [adapt in the future](https://archive.org/details/howbuildingslear00bran). 
 
-We must make design choices that won't bewilder users, so that our creations can be navigated easily. Another shared problem is to work out [how to make things that can be maintained over time](/unexploded). Systems that appear seamless and beautifully minimal can fall apart if they're constructed in the wrong way. It is usually better to make something messy but adaptable, rather than aim for seamless perfection. 
+We must make design choices that won't bewilder users, so that our creations can be navigated easily. Another shared problem is to work out [how to make things that can be maintained over time](/unexploded). Systems that appear perfect and beautifully minimal can fall apart if they're constructed in the wrong way. It is usually better to make something messy with the marks of hand-crafting, something adaptable, rather than aim for outward perfection. 
 
 There turns out to be a pretty big overlap between architecture (and its problems) and software engineering (and its problems). It makes reading books from each discipline alongside each other a delight.
 
