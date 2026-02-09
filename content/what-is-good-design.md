@@ -1,5 +1,5 @@
 Title: The Problem With My Magic Mouse
-Date: 1-01-2026
+Date: 30-01-2026
 slug: seamless
 tags: Design, UI, UX
 Summary: What architecture can teach us
