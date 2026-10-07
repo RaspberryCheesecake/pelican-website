@@ -17,7 +17,7 @@ But now that the masts are [finally gone](https://www.bbc.co.uk/news/articles/c6
 In a bizarre coda to the story of the SS Richard Montgomery, local communities have [fought quite hard](https://www.bbc.co.uk/news/articles/c79y1z841lpo) to keep the remnants of the masts after their eventual removal. 
 
 >"The Government have finally now signed a contract with the removal company that will dismantle the masts. This landmark will be lost forever to people from Sheerness, and the emotion and those stories are at risk of being lost locally."
-Kevin McEnna, MP for Sittingbourne and Sheppey, in [a speech to Parliament](https://hansard.parliament.uk/commons/2026-04-21/debates/B77998A2-DE0D-4BE8-A5F1-A00DD4A782F8/SSRichardMontgomeryMasts#)
+Kevin McKenna, MP for Sittingbourne and Sheppey, in [a speech to Parliament](https://hansard.parliament.uk/commons/2026-04-21/debates/B77998A2-DE0D-4BE8-A5F1-A00DD4A782F8/SSRichardMontgomeryMasts#)
 
 This campaign succeeded and the masts are now on their way to Chatham Historic Dockyard which will conserve them so that they can be placed in a local museum. What a long, strange journey it's been. We've gone from the masts being a local source of shame and embarrassment [in the local newspaper](https://www.kentonline.co.uk/sheerness/news/anger-over-terrorist-mermaid-mural-41963/) that people hated to be reminded of, to a kind of local pride in them and the 'heritage' they represent. It's the sort of English story that simultaneously delights and infuriates, proof that if you leave *anything* lying around here long enough, even unexploded ordinance, it somehow becomes a beloved part of the landscape. 
 
