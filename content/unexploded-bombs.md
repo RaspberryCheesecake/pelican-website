@@ -1,7 +1,7 @@
 Title: Unexploded Bombs
 Date: 22-05-2020
 slug: unexploded
-tags: legacy, programming, codebase
+tags: legacy, programming, codebase, bugs
 Summary: Problems in Your Codebase too Large to See
 
 ![Masts]({filename}/images/ss-richard-montgomery-masts.jpg)

@@ -1,7 +1,7 @@
 Title: Goodbye to the Masts of the SS Richard Montgomery
 Date: 10-02-2026
 slug: ss-richard-montgomery-masts
-tags: Bugs
+tags: bugs, legacy
 Summary: Progress!
 
 ![SS Richard Montgomery]({filename}/images/mast-removal.jpg)
