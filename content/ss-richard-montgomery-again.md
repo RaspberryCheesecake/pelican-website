@@ -28,5 +28,5 @@ At least now that some of the threat posed by the wreck of the SS Richard Montgo
 
 Has the British state gotten better now at dealing with infrastructure problems that could suddenly cripple society if they go wrong? Forgive my cynicism but [it doesn't quite seem that way](https://www.channel4.com/news/report-says-software-error-to-blame-for-travel-chaos-that-grounded-thousands-of-flights) to me.
 
- We could use a physical reminder of the commitment and strength of mind that it takes to tackle an ongoing bug that everyone would rather ignore. When the masts are in their final resting place I'll be paying my respects with a visit. I hope they'll be kept in a way that honours everything they represent, the good and the bad and the plain ridiculous.
+ We could use a physical reminder of the commitment and strength of mind that it takes to tackle an ongoing bug that everyone would rather ignore. When the masts are in their final resting place I'll be paying my respects with a visit. I hope they'll be kept in a way that honours everything they represent, the good, the bad and the plain ridiculous.
 
